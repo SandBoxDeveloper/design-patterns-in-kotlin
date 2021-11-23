@@ -1,4 +1,4 @@
-package patterns.creational
+package patterns.creational.factory
 
 class SimpleFactoryPatternImplementation {
 
